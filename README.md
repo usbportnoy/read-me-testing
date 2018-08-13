@@ -15,3 +15,6 @@
 [<b>sup b<b>](java://sane.com)
 [<a>sup b</a>](java://sane.com)
 [<svg>](java://sane.com)
+
+
+ javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
