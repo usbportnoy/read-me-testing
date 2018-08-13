@@ -13,3 +13,4 @@
 [test](javascri://sane.com)
 [test](javascript://sane.com)
 [<b>sup b<b>](java://sane.com)
+[<a>sup b</a>](java://sane.com)
