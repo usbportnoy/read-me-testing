@@ -7,3 +7,9 @@
 > hello <a href="javascript:alert('xss')"
 > some more text
 
+[test](http://sane.com)
+[test](j://sane.com)
+[test](java://sane.com)
+[test](javascri://sane.com)
+[test](javascript://sane.com)
+
