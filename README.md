@@ -1,1 +1,1 @@
-[Google](https://www.google.com)
+[Google](javascript:alert('xss'))
