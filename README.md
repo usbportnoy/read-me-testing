@@ -1,4 +1,4 @@
 [Google](javascript:alert('xss'))
 
-> hello <a name="n"
+> hello <a href="http://google.com"
 > some more text
