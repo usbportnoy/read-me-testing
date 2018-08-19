@@ -1,5 +1,7 @@
 {
     "name": "usbportnoy/read-me-testing",
-    "description": "testing readme",
-    "require": {}
+    "description": "\n<img src=\"http://www.google.com\">",
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
 }
