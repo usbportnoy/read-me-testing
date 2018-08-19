@@ -1,6 +1,6 @@
 {
     "name": "usbportnoy/description-testing",
-    "description": "&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;alert('XSS'))\"&gt;",
+    "description": "Testing\n&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;alert('XSS'))\"&gt;",
     "require": {
         "erusev/parsedown": "^1.7"
     }
