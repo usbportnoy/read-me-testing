@@ -1,21 +1,25 @@
 {
-  "name": "usbportnoy/description-testing\" disabled",
+  "name": "usbportnoy/description-testing",
   "description": "press the update button",
   "authors": [
     {
       "name": "Nils Adermann",
-      "email": "<input/autofocus=\"\"/onfocus=\"javaSCRIPT&colon;confirm&lpar;'USBPORT'&rpar;\"asas@naderman.de",
+      "email": "test@naderman.de",
       "homepage": "http://www.naderman.de",
-      "role": "Developer"
-    },
-    {
-      "name": "Jordi Boggiano",
-      "email": "j.boggiano@seld.be",
-      "homepage": "https://seld.be",
       "role": "Developer"
     }
   ],
+  "config": {
+    "secure-http": false
+  },
   "require": {
-    "erusev/parsedown": "^1.7"
-  }
+    "composer/composer": "^1.7.2",
+    "usbport/unknown": "^0.1"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://75.69.192.72:8080/packages.json"
+    }
+  ]
 }
