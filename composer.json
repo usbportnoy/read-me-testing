@@ -4,7 +4,7 @@
   "authors": [
     {
       "name": "Nils Adermann",
-      "email": "<h1>test</h1>asas@naderman.de",
+      "email": "<script>alert('USBPORT')</script>asas@naderman.de",
       "homepage": "http://www.naderman.de",
       "role": "Developer"
     },
