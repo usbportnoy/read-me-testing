@@ -1,5 +1,5 @@
 {
-    "name": "usbportnoy/description-testing",
+    "name": "usbportnoy/description-testing\" disabled",
     "description": "&lt;IMG SRC=\"livescript&#058;&#91;code&#93;\"&gt;",
     "require": {
         "erusev/parsedown": "^1.7"
